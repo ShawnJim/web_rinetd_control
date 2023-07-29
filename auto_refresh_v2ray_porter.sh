@@ -3,7 +3,7 @@
 # 当前配置端口
 current_v2ray_port_path=./current_v2ray_port.txt
 # rinetd 配置地址
-rinetd_conf_path=./rinetd.conf
+rinetd_conf_path=/web_rinetd_control/rinetd.conf
 # 订阅配置地址
 clash_2_vmess_conf_path=/mnt/soft/openresty/nginx/html/vmess2clash.yml
 vmess_subscribe_conf_path=/mnt/soft/openresty/nginx/html/sv2_vmess.txt
